@@ -1,0 +1,11 @@
+id=sgame_pvp
+name=小男孩王者优化
+author=善良的小男孩
+version=v4.0
+versionCode=12
+resName=小男孩王者优化v4.0.zip
+resMd5=b70f55770a08f7d0bdf2eeb134f93c8d
+resUrl=http://free44858.hosthd1.ldvps.com/sgame_pvp/小男孩王者优化v4.0.zip
+versionInfoName=更新说明.txt
+versionInfoMd5=ac45da86595f4fbf8ee5029fb9f1172b
+versionInfoUrl=http://free44858.hosthd1.ldvps.com/sgame_pvp/versionInfo.txt

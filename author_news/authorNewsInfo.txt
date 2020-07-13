@@ -1,3 +1,0 @@
-authorNewsName=楼主动态.txt
-authorNewsMd5=03e5437a224aca773822c78c0ce05ce8
-authorNewsUrl=http://free44858.hosthd1.ldvps.com/author_news/authorNews.txt

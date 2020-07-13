@@ -1,0 +1,11 @@
+id=sgame_pvp
+name=小男孩王者优化
+author=善良的小男孩
+version=v4.0
+versionCode=12
+fileNameModule=小男孩王者优化v4.0.zip
+fileMd5Module=b70f55770a08f7d0bdf2eeb134f93c8d
+fileUrlModule=https://raw.githubusercontent.com/goodboy-admin/magiskmodule/master/sgame_pvp/小男孩王者优化v4.0.zip
+fileNameUpdateLog=更新日志.txt
+fileMd5UpdateLog=e79ca9038aa5126ca2fa7c7e50dc0322
+fileUrlUpdateLog=https://raw.githubusercontent.com/goodboy-admin/magiskmodule/master/sgame_pvp/updateLog.txt
